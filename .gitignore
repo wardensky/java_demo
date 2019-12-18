@@ -1,0 +1,17 @@
+.idea/
+.index/
+.niogit/
+.security/
+logs/
+log/
+*.log
+target/**
+*/target/**
+*.iml
+download/
+test/logs
+test/repositories
+repositories
+.DS_Store
+jxl.log
+*.enc
